@@ -1,4 +1,6 @@
 name: foo
 pr1: false
 pr2: false
-pr3: true
+pr3: false
+pr4: The 'base' and 'branch' for a pull request must be different branches. Unable to continue.
+pr5: true
