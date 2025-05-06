@@ -3,4 +3,7 @@ pr1: false
 pr2: false
 pr3: false
 pr4: The 'base' and 'branch' for a pull request must be different branches. Unable to continue.
-pr5: true
+pr5: Error: The process '/usr/bin/git' failed with exit code 128
+pr6: "cp: cannot stat '../repo1/sync-folder/*': No such file or directory"
+pr7: yay or nay
+
