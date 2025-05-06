@@ -1,4 +1,5 @@
 name: foo
 pr1: false
 pr2: false
-pr3: true
+pr3: false
+pr4: true
