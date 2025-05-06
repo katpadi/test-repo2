@@ -1,3 +1,4 @@
 name: foo
-pr1: true
-pr2: true
+pr1: false
+pr2: false
+pr3: true
